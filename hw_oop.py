@@ -20,7 +20,7 @@ class Student:
             else:
                 lecturer.grades[course] = [grade]
         else:
-            return 'Ошибка оценка должна быть по 10-ти балльной системе'
+            return 'РћС€РёР±РєР° РѕС†РµРЅРєР° РґРѕР»Р¶РЅР° Р±С‹С‚СЊ РїРѕ 10-С‚Рё Р±Р°Р»Р»СЊРЅРѕР№ СЃРёСЃС‚РµРјРµ'
         
     def __lt__(self, Lecturer):
         if not isinstance(self, Lecturer):
@@ -40,7 +40,7 @@ class Lecturer(Mentor):
        return round(sum_lecturer_grades, 2)
       
    def __str__(self):
-       res = f'Лектор {self.name}_{self.surname}. Средняя оценка за лекции{get_sum_lecturer_grades(Lecturer)}'
+       res = f'Р›РµРєС‚РѕСЂ {self.name}_{self.surname}. РЎСЂРµРґРЅСЏСЏ РѕС†РµРЅРєР° Р·Р° Р»РµРєС†РёРё{get_sum_lecturer_grades(Lecturer)}'
        return  res
    print(Lecturer)
     
@@ -53,7 +53,7 @@ class Reviewer(Mentor):
             else:
                 student.grades[course] = [grade]
         else:
-            return 'Ошибка'
+            return 'ГЋГёГЁГЎГЄГ '
          
     def get_sum_students_grade(students, course):
         sum_students_grade = 0
