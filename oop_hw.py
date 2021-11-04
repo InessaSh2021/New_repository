@@ -20,7 +20,7 @@ class Student:
             else:
                 lecturer.grades[course] = [grade]
         else:
-            return 'Ошибка оценка должна быть по 10-ти балльной системе'      
+            return 'РћС€РёР±РєР° РѕС†РµРЅРєР° РґРѕР»Р¶РЅР° Р±С‹С‚СЊ РїРѕ 10-С‚Рё Р±Р°Р»Р»СЊРЅРѕР№ СЃРёСЃС‚РµРјРµ'      
     
          
                
@@ -39,7 +39,7 @@ class Reviewer(Mentor):
             else:
                 student.grades[course] = [grade]
         else:
-            return 'Ошибка'        
+            return 'РћС€РёР±РєР°'        
      
            
  
