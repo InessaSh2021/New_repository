@@ -53,7 +53,7 @@ class Reviewer(Mentor):
             else:
                 student.grades[course] = [grade]
         else:
-            return 'Îøèáêà'
+            return 'Ошибка'
          
     def get_sum_students_grade(students, course):
         sum_students_grade = 0
