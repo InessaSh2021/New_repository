@@ -42,7 +42,7 @@ class Lecturer(Mentor):
    def __str__(self):
        res = f'Лектор {self.name}_{self.surname}. Средняя оценка за лекции{get_sum_lecturer_grades(Lecturer)}'
        return  res
-   print(Lecturer)
+   print(res)
     
     
 class Reviewer(Mentor):
