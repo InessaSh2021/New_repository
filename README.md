@@ -9,8 +9,8 @@
 
 ## Примеры выполненных учебных заданий: 
 
-![ Работа с Базами данных: ]
-(файл hw4CREATE.sql https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/hw4CREATE.sql)
+![ Работа с Базами данных: файл hw4CREATE.sql ]
+(https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/hw4CREATE.sql)
 ![ ООП (создание классов):]
 файл hw_oop.py (https://github.com/InessaSh2021/Repository_14/blob/master/hw_oop.py) ;
 файл oop_hw.py (https://github.com/InessaSh2021/Repository_14/blob/master/oop_hw.py)
