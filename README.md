@@ -19,7 +19,7 @@
 
 фотография_1 https://drive.google.com/file/d/1MN3MChQcTB45WSAyIIpnxGMbRSl1sNTO/view?usp=sharing
 
-фотография_2 https://drive.google.com/file/d/1FHjZA-e4kyBJ1g8u2Ferjgu4jNh4Jfqy/view?usp=sharing
+фотография_2 https://drive.google.com/file/d/1h3kOOEO8Ru556rHPREU5tTySRYyAIRAk/view?usp=sharing
 
 фотография_3 Тамбов https://drive.google.com/file/d/13XJQXxMnlG0yydPLW6e2ouULSPlQUkHl/view?usp=sharing
 
