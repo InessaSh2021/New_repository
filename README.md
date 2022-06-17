@@ -8,4 +8,7 @@
 ![ СЕРТИФИКАТ ОБ ОКОНЧАНИИ КУРСА STEPIK "Поколение Python": курс для начинающих"](https://github.com/InessaSh2021/Repository_hw/blob/2e1349fceed29faf34d05a1919086a137ae79f35/stepik-certificate-58852-1615959.pdf)
 
 ## Примеры выполненных учебных заданий: 
-Работа с Базами данных: hw_oop.py (https://github.com/InessaSh2021/Repository_14/blob/master/hw_oop.py) и oop_hw.py
+Работа с Базами данных: 
+файл hw4CREATE.sql https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/hw4CREATE.sql
+ООП (создание классов):
+файл hw_oop.py (https://github.com/InessaSh2021/Repository_14/blob/master/hw_oop.py) и файл oop_hw.py (https://github.com/InessaSh2021/Repository_14/blob/master/oop_hw.py)
