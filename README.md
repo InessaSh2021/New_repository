@@ -14,3 +14,12 @@
 ООП (создание классов): https://github.com/InessaSh2021/Repository_14/blob/master/hw_oop.py
 
 Работа с библиотекой requests, http запросы: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/requests_http_hw_1.py
+
+## Моё хобби - фотография:
+
+фотография_1 https://drive.google.com/file/d/1MN3MChQcTB45WSAyIIpnxGMbRSl1sNTO/view?usp=sharing
+фотография_2 https://drive.google.com/file/d/1FHjZA-e4kyBJ1g8u2Ferjgu4jNh4Jfqy/view?usp=sharing
+фотография_3 https://drive.google.com/file/d/13XJQXxMnlG0yydPLW6e2ouULSPlQUkHl/view?usp=sharing
+фотография_4 https://drive.google.com/file/d/1g8mB3pKIfppcV4YC9NokaQ1wyN8QsX5N/view?usp=sharing
+фотография_5 https://drive.google.com/file/d/131CmD9Bz7eYo_-rQq-hrIcb46XLi8Hv3/view?usp=sharing
+##...
