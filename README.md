@@ -25,7 +25,7 @@
 
 фотография https://drive.google.com/file/d/1h3kOOEO8Ru556rHPREU5tTySRYyAIRAk/view?usp=sharing
 
-фотография Тамбов https://drive.google.com/file/d/13XJQXxMnlG0yydPLW6e2ouULSPlQUkHl/view?usp=sharing
+фотография г.Тамбова https://drive.google.com/file/d/13XJQXxMnlG0yydPLW6e2ouULSPlQUkHl/view?usp=sharing
 
 фотография https://drive.google.com/file/d/1g8mB3pKIfppcV4YC9NokaQ1wyN8QsX5N/view?usp=sharing
 
