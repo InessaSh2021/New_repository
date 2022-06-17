@@ -10,4 +10,6 @@
 ## Примеры выполненных учебных заданий: 
 
 Работа с Базами данных: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/hw4CREATE.sql
+
+
 ООП (создание классов): https://github.com/InessaSh2021/Repository_14/blob/master/hw_oop.py
