@@ -9,7 +9,7 @@
 
 ## Примеры выполненных учебных заданий: 
 
-Заполнение базы данных информацией: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/hw4.1.sql
+Заполнение базы данных: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/hw4.1.sql
 
 ООП (создание классов): https://github.com/InessaSh2021/Repository_14/blob/master/hw_oop.py
 
