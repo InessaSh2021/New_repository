@@ -15,9 +15,9 @@
 
 Работа с библиотекой requests, http запросы: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/requests_http_hw_1.py
 
-## Моё хобби - фотография:
+## Моё хобби - фотографировать:
 
-фотография_1 https://drive.google.com/file/d/1MN3MChQcTB45WSAyIIpnxGMbRSl1sNTO/view?usp=sharing
+фотография_1 https://drive.google.com/file/d/15Zytb1UlX7tRZUF2q4KgcxhnANlwk71L/view?usp=sharing
 
 фотография_2 https://drive.google.com/file/d/1h3kOOEO8Ru556rHPREU5tTySRYyAIRAk/view?usp=sharing
 
