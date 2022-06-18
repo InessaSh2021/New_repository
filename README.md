@@ -21,14 +21,16 @@
 
 ## Моё хобби - фотографировать:
 
-фотография https://drive.google.com/file/d/15Zytb1UlX7tRZUF2q4KgcxhnANlwk71L/view?usp=sharing
+фотографии доступны по ссылкам 
 
-фотография https://drive.google.com/file/d/1h3kOOEO8Ru556rHPREU5tTySRYyAIRAk/view?usp=sharing
+https://drive.google.com/file/d/15Zytb1UlX7tRZUF2q4KgcxhnANlwk71L/view?usp=sharing
+
+https://drive.google.com/file/d/1h3kOOEO8Ru556rHPREU5tTySRYyAIRAk/view?usp=sharing
 
 фотография г.Тамбова https://drive.google.com/file/d/13XJQXxMnlG0yydPLW6e2ouULSPlQUkHl/view?usp=sharing
 
-фотография https://drive.google.com/file/d/1g8mB3pKIfppcV4YC9NokaQ1wyN8QsX5N/view?usp=sharing
+https://drive.google.com/file/d/1g8mB3pKIfppcV4YC9NokaQ1wyN8QsX5N/view?usp=sharing
 
-фотография https://drive.google.com/file/d/1wIC1bUrWud0r-VfJz0p5SjWUx4jP49jW/view?usp=sharing
+https://drive.google.com/file/d/1wIC1bUrWud0r-VfJz0p5SjWUx4jP49jW/view?usp=sharing
 
 ............................................................................................
