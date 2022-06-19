@@ -26,6 +26,7 @@
 ![ СЕРТИФИКАТ ОБ ОКОНЧАНИИ КУРСА STEPIK "Поколение Python": курс для начинающих"](https://github.com/InessaSh2021/Repository_hw/blob/2e1349fceed29faf34d05a1919086a137ae79f35/stepik-certificate-58852-1615959.pdf)
 
 
+
 # В СВОБОДНОЕ ВРЕМЯ я занимаюсь своим ХОББИ
 ## Моё хобби - фотографировать:
 
