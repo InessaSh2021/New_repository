@@ -14,8 +14,7 @@
 
 ## Ссылки на сертификаты:
 
-![ СЕРТИФИКАТ ОБ ОКОНЧАНИИ КУРСА НЕТОЛОГИИ "Базы данных для Python-разработчиков"]
-(https://github.com/InessaSh2021/Repository_hw/blob/2e1349fceed29faf34d05a1919086a137ae79f35/certificate%20Database.pdf)
+![ СЕРТИФИКАТ ОБ ОКОНЧАНИИ КУРСА НЕТОЛОГИИ "Базы данных для Python-разработчиков"](https://github.com/InessaSh2021/Repository_hw/blob/2e1349fceed29faf34d05a1919086a137ae79f35/certificate%20Database.pdf)
 
 ![ СЕРТИФИКАТ ОБ ОКОНЧАНИИ КУРСА НЕТОЛОГИИ "Git - система контроля версий"](https://github.com/InessaSh2021/Repository_hw/blob/2e1349fceed29faf34d05a1919086a137ae79f35/certificate%20Git.pdf)
 
