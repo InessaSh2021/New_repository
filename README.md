@@ -14,6 +14,8 @@
 Прошла тестирование на сайте testserver.pro "Программирование на Python 3.0". Результаты тестирования можно посмотреть, пройдя по ссылке 
 https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/Shuvalova%20Inessa%20Borisovna%2030-03-2022%20OOP.jpg
 
+Мой профиль на платформе Stepik https://stepik.org/users/442823532
+
 ## Ссылки на сертификаты:
 
 ![ СЕРТИФИКАТ ОБ ОКОНЧАНИИ КУРСА НЕТОЛОГИИ "Базы данных для Python-разработчиков"](https://github.com/InessaSh2021/Repository_hw/blob/2e1349fceed29faf34d05a1919086a137ae79f35/certificate%20Database.pdf)
