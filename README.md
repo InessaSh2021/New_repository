@@ -13,7 +13,8 @@
 
 Превращаем программу в ToDo бота: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/ToDo%20%D0%B1%D0%BE%D1%82
 
-Прошла тестирование на сайте testserver.pro "Программирование на Python 3.0". Результаты тестирования можно посмотреть, пройдя по ссылке 
+
+##### Прошла тестирование на сайте testserver.pro "Программирование на Python 3.0". Результаты тестирования можно посмотреть, пройдя по ссылке 
 https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/Shuvalova%20Inessa%20Borisovna%2030-03-2022%20OOP.jpg
 
 
@@ -30,8 +31,9 @@ https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/Shuvalova%20Iness
 
 ![ СЕРТИФИКАТ ОБ ОКОНЧАНИИ КУРСА STEPIK "Поколение Python": курс для начинающих"](https://github.com/InessaSh2021/Repository_hw/blob/2e1349fceed29faf34d05a1919086a137ae79f35/stepik-certificate-58852-1615959.pdf)
 
-![ СЕРТИФИКАТ ОБ ОКОНЧАНИИ КУРСА STEPIK "Основы языка программирования Python"]
-(https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/certificate_Python.pdf)
+
+![ СЕРТИФИКАТ ОБ ОКОНЧАНИИ КУРСА НЕТОЛОГИИ "Основы языка программирования Python"](https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/certificate_Python.pdf)
+
 
 
 # В СВОБОДНОЕ ВРЕМЯ я занимаюсь своим ХОББИ
