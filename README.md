@@ -11,9 +11,9 @@
 
 Работа с библиотекой requests, http запросы: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/requests_http_hw_1.py
 
-Превращаем программу в ToDo бота: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/ToDo%20%D0%B1%D0%BE%D1%82
+### Превращаем программу в ToDo бота: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/ToDo%20%D0%B1%D0%BE%D1%82
 
-Создание Telegram-бота: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/Telegram-%D0%B1%D0%BE%D1%82
+### Создание Telegram-бота: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/Telegram-%D0%B1%D0%BE%D1%82
 
 
 ##### Прошла тестирование на сайте testserver.pro "Программирование на Python 3.0". Результаты тестирования можно посмотреть, пройдя по ссылке 
