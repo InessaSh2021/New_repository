@@ -11,8 +11,11 @@
 
 Работа с библиотекой requests, http запросы: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/requests_http_hw_1.py
 
+Превращаем программу в ToDo бота: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/ToDo%20%D0%B1%D0%BE%D1%82
+
 Прошла тестирование на сайте testserver.pro "Программирование на Python 3.0". Результаты тестирования можно посмотреть, пройдя по ссылке 
 https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/Shuvalova%20Inessa%20Borisovna%2030-03-2022%20OOP.jpg
+
 
 
 ## Ссылки на сертификаты:
