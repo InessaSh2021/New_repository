@@ -5,17 +5,17 @@
 
 ## Некоторые примеры выполненных учебных заданий можно посмотреть, перейдя по ссылкам: 
 
+Превращаем программу в ToDo бота: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/ToDo%20%D0%B1%D0%BE%D1%82
+
+Создание Telegram-бота: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/Telegram-%D0%B1%D0%BE%D1%82
+
+Разработка приложения ToDo: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20ToDo
+
 Заполнение базы данных: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/hw4.1.sql
 
 ООП (создание классов): https://github.com/InessaSh2021/Repository_14/blob/master/hw_oop.py
 
 Работа с библиотекой requests, http запросы: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/requests_http_hw_1.py
-
-### Превращаем программу в ToDo бота: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/ToDo%20%D0%B1%D0%BE%D1%82
-
-### Создание Telegram-бота: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/Telegram-%D0%B1%D0%BE%D1%82
-
-Разработка приложения ToDo: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20ToDo
 
 
 ##### Прошла тестирование на сайте testserver.pro "Программирование на Python 3.0". Результаты тестирования можно посмотреть, пройдя по ссылке 
