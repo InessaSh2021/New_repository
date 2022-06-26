@@ -2,7 +2,7 @@
 
 
 Email:               ButkoIB@mail.ru
-Телеграм:            @InessaShuvalova 
+Телеграм:            @InessaShuvalova  
 
 # О РАБОТЕ
 
