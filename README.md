@@ -6,9 +6,8 @@ Email:               ButkoIB@mail.ru
 
 Телеграм:            @InessaShuvalova  
 
-# О РАБОТЕ
 
-#### Моё резюме: https://docs.google.com/document/d/1PCFBt09aS0aJqUi_oqsf0SiYVOMBIaw9/edit?usp=sharing&ouid=104238432259780371483&rtpof=true&sd=true
+### Моё резюме: https://docs.google.com/document/d/1PCFBt09aS0aJqUi_oqsf0SiYVOMBIaw9/edit?usp=sharing&ouid=104238432259780371483&rtpof=true&sd=true
 
 
 ## Некоторые примеры выполненных учебных заданий: 
@@ -30,9 +29,8 @@ Email:               ButkoIB@mail.ru
 Работа с библиотекой requests, http запросы: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/requests_http_hw_1.py
 
 
-##### Результаты тестирования с сайта testserver.pro "Программирование на Python 3.0". : 
+## Результаты тестирования с сайта testserver.pro "Программирование на Python 3.0": 
 https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/Shuvalova%20Inessa%20Borisovna%2030-03-2022%20OOP.jpg
-
 
 
 ## Ссылки на сертификаты:
@@ -51,16 +49,14 @@ https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/Shuvalova%20Iness
 ![ СЕРТИФИКАТ ОБ ОКОНЧАНИИ КУРСА НЕТОЛОГИИ "Основы языка программирования Python"](https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/certificate_Python.pdf)
 
 
+## Моё хобби - фотографировать:
 
-# Моё хобби - фотографировать:
-
-ссылки на некоторые фотографии: 
+фотография г.Тамбова (вид сверху) https://drive.google.com/file/d/13XJQXxMnlG0yydPLW6e2ouULSPlQUkHl/view?usp=sharing
 
 https://drive.google.com/file/d/15Zytb1UlX7tRZUF2q4KgcxhnANlwk71L/view?usp=sharing
 
 https://drive.google.com/file/d/1h3kOOEO8Ru556rHPREU5tTySRYyAIRAk/view?usp=sharing
 
-фотография г.Тамбова (вид сверху) https://drive.google.com/file/d/13XJQXxMnlG0yydPLW6e2ouULSPlQUkHl/view?usp=sharing
 
 https://drive.google.com/file/d/1g8mB3pKIfppcV4YC9NokaQ1wyN8QsX5N/view?usp=sharing
 
