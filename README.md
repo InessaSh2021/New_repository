@@ -15,6 +15,7 @@ Email:               ButkoIB@mail.ru
 Разработка мобильных приложений (Создание проекта_Вывод переменной summary на экран и логирование). Задание выполнено в Android Studio: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0_%D0%92%D1%8B%D0%B2%D0%BE%D0%B4%20%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20summary%20%D0%BD%D0%B0%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%20%D0%B8%20%D0%BB%D0%BE%D0%B3%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_hw1.JPG
 
 Работа эмулятора 2.7 QVGA slider API 22 в Android Studio (мой канал на YouTube) https://youtu.be/_eWltap22H8  
+
 Пользовательский интерфейс для мобильного приложения https://youtu.be/zdlv60_8U_s
 
 Превращаем программу в ToDo бота: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/ToDo%20%D0%B1%D0%BE%D1%82
