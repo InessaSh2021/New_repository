@@ -40,21 +40,21 @@ https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/Shuvalova%20Iness
 
 ## Ссылки на сертификаты:
 
-![ СЕРТИФИКАТ ОБ ОКОНЧАНИИ КУРСА НЕТОЛОГИИ "Базы данных для Python-разработчиков"](https://github.com/InessaSh2021/Repository_hw/blob/2e1349fceed29faf34d05a1919086a137ae79f35/certificate%20Database.pdf)
+![ СЕРТИФИКАТ НЕТОЛОГИИ "Базы данных для Python-разработчиков"](https://github.com/InessaSh2021/Repository_hw/blob/2e1349fceed29faf34d05a1919086a137ae79f35/certificate%20Database.pdf)
 
-![ СЕРТИФИКАТ ОБ ОКОНЧАНИИ КУРСА НЕТОЛОГИИ "Git - система контроля версий"](https://github.com/InessaSh2021/Repository_hw/blob/2e1349fceed29faf34d05a1919086a137ae79f35/certificate%20Git.pdf)
-
-
-![ СЕРТИФИКАТ ОБ ОКОНЧАНИИ КУРСА НЕТОЛОГИИ "Python-разработка для начинающих"](https://github.com/InessaSh2021/Repository_hw/blob/2e1349fceed29faf34d05a1919086a137ae79f35/certificate%20netologia%20Python-разработка.pdf)
+![ СЕРТИФИКАТ НЕТОЛОГИИ "Git - система контроля версий"](https://github.com/InessaSh2021/Repository_hw/blob/2e1349fceed29faf34d05a1919086a137ae79f35/certificate%20Git.pdf)
 
 
-![ СЕРТИФИКАТ ОБ ОКОНЧАНИИ КУРСА STEPIK "Поколение Python": курс для начинающих"](https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/stepik-certificate-58852-1615959_.pdf)
+![ СЕРТИФИКАТ НЕТОЛОГИИ "Python-разработка для начинающих"](https://github.com/InessaSh2021/Repository_hw/blob/2e1349fceed29faf34d05a1919086a137ae79f35/certificate%20netologia%20Python-разработка.pdf)
 
 
-![ СЕРТИФИКАТ ОБ ОКОНЧАНИИ КУРСА НЕТОЛОГИИ "Основы языка программирования Python"](https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/certificate_Python.pdf)
+![ СЕРТИФИКАТ STEPIK "Поколение Python": курс для начинающих"](https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/stepik-certificate-58852-1615959_.pdf)
 
-![ СЕРТИФИКАТ ОБ ОКОНЧАНИИ КУРСА НЕТОЛОГИИ "Разработка мобильных приложений с нуля"]
-(https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9.JPG)
+
+![ СЕРТИФИКАТ НЕТОЛОГИИ "Основы языка программирования Python"](https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/certificate_Python.pdf)
+
+![ СЕРТИФИКАТ НЕТОЛОГИИ "Разработка мобильных приложений с нуля"](https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9.pdf)
+
 
 ## Моё хобби - фотографировать:
 
