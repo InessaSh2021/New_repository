@@ -42,7 +42,7 @@ https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/Shuvalova%20Iness
 
 ![ СЕРТИФИКАТ НЕТОЛОГИИ "Базы данных для Python-разработчиков"](https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/%D0%91%D0%B0%D0%B7%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B4%D0%BB%D1%8F%20Python-%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%BE%D0%B2.JPG)
 
-![ СЕРТИФИКАТ НЕТОЛОГИИ "Git - система контроля версий"](https://github.com/InessaSh2021/Repository_hw/blob/2e1349fceed29faf34d05a1919086a137ae79f35/certificate%20Git.pdf)
+![ СЕРТИФИКАТ НЕТОЛОГИИ "Git - система контроля версий"](https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/Git%20-%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%20%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8F%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B9.JPG)
 
 
 ![ СЕРТИФИКАТ НЕТОЛОГИИ "Python-разработка для начинающих"](https://github.com/InessaSh2021/Repository_hw/blob/2e1349fceed29faf34d05a1919086a137ae79f35/certificate%20netologia%20Python-разработка.pdf)
