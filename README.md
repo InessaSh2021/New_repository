@@ -38,7 +38,7 @@ Email:               ButkoIB@mail.ru
 https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/Shuvalova%20Inessa%20Borisovna%2030-03-2022%20OOP.jpg
 
 
-## Ссылки на сертификаты/свидетельства:
+## Ссылки на свидетельства/сертификаты:
 
 Свидетельство об окончании курса "Базы данных для Python-разработчиков" https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/%D0%91%D0%B0%D0%B7%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B4%D0%BB%D1%8F%20Python-%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%BE%D0%B2.JPG
 
@@ -48,7 +48,7 @@ https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/Shuvalova%20Iness
 Свидетельство об окончании курса "Python-разработка для начинающих" https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/Python-%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85.JPG
 
 
-Сертификат об окончании курса "Поколение Python": курс для начинающих" https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/%D0%9F%D0%BE%D0%BA%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20Python-%20%D0%BA%D1%83%D1%80%D1%81%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85.JPG
+Сертификат об окончании курса "Поколение Python": курс для начинающих" https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/%D0%9F%D0%BE%D0%BA%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20Python-%20%D0%BA%D1%83%D1%80%D1%81%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85_.JPG
 
 
 Свидетельство об окончании курса "Основы языка программирования Python" https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%BC%D0%BC%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20Python.JPG
