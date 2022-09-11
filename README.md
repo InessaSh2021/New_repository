@@ -33,8 +33,6 @@ Email:               ButkoIB@mail.ru
 
 Работа с библиотекой requests, http запросы: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/requests_http_hw_1.py
 
-Джанго. Выгрузка каталога товаров из csv-файла с сохранением всех позиций в базе данных https://youtu.be/18r-_rZw8U4
-
 
 ## Результаты тестирования с сайта testserver.pro "Программирование на Python 3.0": 
 https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/Shuvalova%20Inessa%20Borisovna%2030-03-2022%20OOP.jpg
