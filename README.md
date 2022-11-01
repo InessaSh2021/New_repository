@@ -1,7 +1,7 @@
 # Шувалова Инесса Борисовна
 
 
-Email:               ButkoIB@mail.ru
+Email:               @InessaShuvalova
 
 
 Телеграм:            @InessaShuvalova  
