@@ -1,7 +1,7 @@
 # Шувалова Инесса Борисовна
 
 
-Email:               @InessaShuvalova
+Email:               Shuvalovaines@yandex.ru
 
 
 Телеграм:            @InessaShuvalova  
