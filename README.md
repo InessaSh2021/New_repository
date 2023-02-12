@@ -57,7 +57,7 @@ https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/Shuvalova%20Iness
 Сертификат об окончании курса "Компьютерная грамотность"
 https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/certificate%20(%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%8F%20%D0%B3%D1%80%D0%B0%D0%BC%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C).pdf
 
-## О себе: Моё хобби - фотографировать:
+## О себе: моё хобби - фотографировать:
 
 фотография г.Тамбова (вид сверху) https://drive.google.com/file/d/13XJQXxMnlG0yydPLW6e2ouULSPlQUkHl/view?usp=sharing
 
