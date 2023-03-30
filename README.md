@@ -61,13 +61,6 @@ https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/certificate%20(%D
 
 фотография г.Тамбова (вид сверху) https://drive.google.com/file/d/13XJQXxMnlG0yydPLW6e2ouULSPlQUkHl/view?usp=sharing
 
-https://drive.google.com/file/d/15Zytb1UlX7tRZUF2q4KgcxhnANlwk71L/view?usp=sharing
-
-https://drive.google.com/file/d/1h3kOOEO8Ru556rHPREU5tTySRYyAIRAk/view?usp=sharing
-
-
-https://drive.google.com/file/d/1g8mB3pKIfppcV4YC9NokaQ1wyN8QsX5N/view?usp=sharing
-
-https://drive.google.com/file/d/1wIC1bUrWud0r-VfJz0p5SjWUx4jP49jW/view?usp=sharing
+https://sites.google.com/view/shuvalovainessa/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0?authuser=0
 
 ............................................................................................
