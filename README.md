@@ -37,7 +37,7 @@ Email:               Shuvalovaines@yandex.ru
 ## Результаты тестирования с сайта testserver.pro "Программирование на Python 3.0": 
 https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/Shuvalova%20Inessa%20Borisovna%2030-03-2022%20OOP.jpg
 
-# Ссылка на сверстанную страницу "Хьюстон" https://sites.google.com/view/my-page-houston/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0 
+Ссылка на сверстанную страницу "Хьюстон" https://sites.google.com/view/my-page-houston/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0 
 
 ## Ссылки на свидетельства/сертификаты:
 
