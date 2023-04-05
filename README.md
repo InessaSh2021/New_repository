@@ -41,6 +41,16 @@ Email:               Shuvalovaines@yandex.ru
 ## Результаты тестирования с сайта testserver.pro "Программирование на Python 3.0": 
 https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/Shuvalova%20Inessa%20Borisovna%2030-03-2022%20OOP.jpg
 
+## О себе: моё хобби - фотографировать:
+
+фотография г.Тамбова (вид сверху) https://drive.google.com/file/d/13XJQXxMnlG0yydPLW6e2ouULSPlQUkHl/view?usp=sharing
+
+## Ссылка на мой сайт:
+
+https://sites.google.com/view/shuvalovainessa/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0?authuser=0
+
+............................................................................................
+
 ## Ссылки на свидетельства/сертификаты:
 
 Свидетельство об окончании курса "Основы языка программирования Python" https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%BC%D0%BC%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20Python.JPG
@@ -60,12 +70,3 @@ https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/Shuvalova%20Iness
 Сертификат об окончании курса "Компьютерная грамотность"
 https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/certificate%20(%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%8F%20%D0%B3%D1%80%D0%B0%D0%BC%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C).pdf
 
-## О себе: моё хобби - фотографировать:
-
-фотография г.Тамбова (вид сверху) https://drive.google.com/file/d/13XJQXxMnlG0yydPLW6e2ouULSPlQUkHl/view?usp=sharing
-
-## Ссылка на мой сайт:
-
-https://sites.google.com/view/shuvalovainessa/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0?authuser=0
-
-............................................................................................
