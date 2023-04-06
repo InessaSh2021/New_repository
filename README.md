@@ -18,6 +18,8 @@ Email:               Shuvalovaines@yandex.ru
 
 Работа с библиотекой requests, http запросы: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/requests_http_hw_1.py
 
+Python/Django (вывод списка блюд) https://youtu.be/txQVq-3s9ow
+
 Ссылка на сверстанную (HTML) страницу "Хьюстон" https://sites.google.com/view/my-page-houston/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0 
 
 ## Дополнительно: 
