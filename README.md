@@ -10,7 +10,7 @@ Email:               Shuvalovaines@yandex.ru
 ### Резюме: https://docs.google.com/document/d/1PCFBt09aS0aJqUi_oqsf0SiYVOMBIaw9/edit?usp=sharing&ouid=104238432259780371483&rtpof=true&sd=true
 
 
-## Некоторые примеры выполненных заданий: 
+## примеры выполненных заданий: 
 
 Заполнение базы данных: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/hw4.1.sql
 
