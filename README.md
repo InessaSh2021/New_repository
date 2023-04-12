@@ -24,7 +24,7 @@ Python/Django (вывод списка блюд) https://youtu.be/txQVq-3s9ow
 
 Ссылка на сверстанную (HTML/CSS) страницу "Хьюстон" https://sites.google.com/view/my-page-houston/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0 
 
-сайт Хьюсотн - вариарт II - (HTML) https://main--reliable-pegasus-73c57f.netlify.app
+сайт Хьюсотн - вариарт II - (HTML/CSS) https://main--reliable-pegasus-73c57f.netlify.app
 
 
 ## Дополнительно: 
