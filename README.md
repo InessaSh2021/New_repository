@@ -18,7 +18,7 @@ Email:               Shuvalovaines@yandex.ru
 
 Работа с библиотекой requests, http запросы: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/requests_http_hw_1.py
 
-Python/Django (вывод списка блюд) https://youtu.be/txQVq-3s9ow
+Python/Django (вывод списка блюд) доступ по ссылке https://youtu.be/txQVq-3s9ow
 
 парсинг (python) https://youtu.be/XVaK-iKRzZs
 
