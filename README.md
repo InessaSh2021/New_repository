@@ -30,9 +30,7 @@ Python/Django (вывод списка блюд) доступ по ссылке 
 Разработка мобильных приложений (Создание проекта_Вывод переменной summary на экран и логирование). Задание выполнено в Android Studio (Kotlin): https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0_%D0%92%D1%8B%D0%B2%D0%BE%D0%B4%20%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20summary%20%D0%BD%D0%B0%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%20%D0%B8%20%D0%BB%D0%BE%D0%B3%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_hw1.JPG
 
 Работа эмулятора 2.7 QVGA slider API 22 в Android Studio: https://youtu.be/_eWltap22H8  
-
-Элементы пользовательского интерфейса для мобильного приложения (строка ввода, кнопки):
-(video) https://youtu.be/zdlv60_8U_s   
+Элементы пользовательского интерфейса для мобильного приложения (строка ввода, кнопки): (video) https://youtu.be/zdlv60_8U_s   
 
 
 Превращаем программу в ToDo бота: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/ToDo%20%D0%B1%D0%BE%D1%82
@@ -40,7 +38,6 @@ Python/Django (вывод списка блюд) доступ по ссылке 
 Создание Telegram-бота: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/Telegram-%D0%B1%D0%BE%D1%82
 
 Разработка приложения ToDo: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20ToDo
-
 
 Результаты тестирования с сайта testserver.pro "Программирование на Python 3.0": 
 https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/Shuvalova%20Inessa%20Borisovna%2030-03-2022%20OOP.jpg
