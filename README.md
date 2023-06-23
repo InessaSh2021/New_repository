@@ -41,16 +41,14 @@ Python/Django (вывод списка блюд) доступ по ссылке 
 
 Разработка приложения ToDo: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20ToDo
 
-Результаты тестирования с сайта testserver.pro "Программирование на Python 3.0": 
-https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/Shuvalova%20Inessa%20Borisovna%2030-03-2022%20OOP.jpg
-
 #### Ссылка на мой сайт:
 
 https://sites.google.com/view/shuvalovainessa/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0?authuser=0
 
 ............................................................................................
 
-### 2023 г. "Веб-разработка для начинающих: HTML и CSS"; "JavaScript для начинающих"; "Тестирование ПО: Postman для тестирования API"; "Практический мини-курс по JavaScript и Bootstrap 5"
+### 2023 г. "Веб-разработка для начинающих: HTML и CSS"; "JavaScript для начинающих"; "Тестирование ПО: Postman для тестирования API"; "Практический мини-курс по JavaScript и Bootstrap 5"; 
+"Архитектура информационных систем"
 
 ## Ссылки на свидетельства/сертификаты:
 
