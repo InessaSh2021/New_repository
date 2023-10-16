@@ -35,7 +35,7 @@ Python/Django (вывод списка блюд) доступ по ссылке 
 Элементы пользовательского интерфейса для мобильного приложения (строка ввода, кнопки): (video) https://youtu.be/zdlv60_8U_s   
 
 
-Превращаем программу в ToDo бота: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/ToDo%20%D0%B1%D0%BE%D1%82
+Создание ToDo бота: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/ToDo%20%D0%B1%D0%BE%D1%82
 
 Создание Telegram-бота: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/Telegram-%D0%B1%D0%BE%D1%82
 
