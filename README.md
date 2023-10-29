@@ -7,7 +7,7 @@ Email:               Shuvalovaines@yandex.ru
 Телеграм:            @InessaShuvalova  
 
 
-### Резюме: https://docs.google.com/document/d/1PCFBt09aS0aJqUi_oqsf0SiYVOMBIaw9/edit?usp=sharing&ouid=104238432259780371483&rtpof=true&sd=true
+## Резюме: https://docs.google.com/document/d/1PCFBt09aS0aJqUi_oqsf0SiYVOMBIaw9/edit?usp=sharing&ouid=104238432259780371483&rtpof=true&sd=true
 
 
 ## примеры выполненных заданий: 
@@ -19,7 +19,7 @@ Email:               Shuvalovaines@yandex.ru
 Работа с библиотекой requests, http запросы: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/requests_http_hw_1.py
 
 
-#### Пет-проекты:
+## Пет-проекты:
 
 [https://sites.google.com/view/inessashuvalova81/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0](https://sites.google.com/view/pet-projects-shuvalova-ines/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0?authuser=0)
 
