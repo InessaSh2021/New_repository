@@ -18,26 +18,9 @@ Email:               Shuvalovaines@yandex.ru
 
 Работа с библиотекой requests, http запросы: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/requests_http_hw_1.py
 
-Python/Django (вывод списка блюд) доступ по ссылке https://youtu.be/txQVq-3s9ow
-
-парсинг (python) доступ по ссылке https://youtu.be/XVaK-iKRzZs
-
-Ссылка на страницу "Хьюстон" (HTML/CSS) -> https://sites.google.com/view/my-page-houston/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0 
-
-сайт Хьюсотн - вариарт II - (HTML/CSS) https://main--reliable-pegasus-73c57f.netlify.app
-
-информационнный блок, созданный с использованием Bootstrap https://main--neon-cat-ff2ad1.netlify.app/index.html
-
-
 Разработка мобильных приложений (Создание проекта_Вывод переменной summary на экран и логирование). Задание выполнено в Android Studio (Kotlin): https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0_%D0%92%D1%8B%D0%B2%D0%BE%D0%B4%20%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20summary%20%D0%BD%D0%B0%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%20%D0%B8%20%D0%BB%D0%BE%D0%B3%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_hw1.JPG
 
-Работа эмулятора 2.7 QVGA slider API 22 в Android Studio: https://youtu.be/_eWltap22H8  
-Элементы пользовательского интерфейса для мобильного приложения (строка ввода, кнопки): (video) https://youtu.be/zdlv60_8U_s   
-
-
 Создание ToDo бота: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/ToDo%20%D0%B1%D0%BE%D1%82
-
-Создание Telegram-бота: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/Telegram-%D0%B1%D0%BE%D1%82
 
 Разработка приложения ToDo: https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20ToDo
 
