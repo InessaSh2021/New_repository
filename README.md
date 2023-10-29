@@ -53,13 +53,13 @@ https://github.com/InessaSh2021/Repository_14/blob/master/certificateprof.python
 https://github.com/InessaSh2021/Repository_14/blob/master/Python-%20разработка%20для%20начинающих.JPG
 
 Свидетельство 
-https://github.com/InessaSh2021/Repository_14/blob/master/JS.JPG
+https://github.com/InessaSh2021/Repository_14/blob/master/Git%20-%20система%20контроля%20версий.JPG
 
 Свидетельство 
 https://github.com/InessaSh2021/Repository_14/blob/master/Основы%20языка%20прогрммрования%20Python.JPG
 
 Сертификат 
-https://github.com/InessaSh2021/Repository_14/blob/master/Git%20-%20система%20контроля%20версий.JPG
+https://github.com/InessaSh2021/Repository_14/blob/master/JS.JPG
 
 Сертификат
 https://github.com/InessaSh2021/Repository_14/blob/master/JS%20Bootstrap.JPG
