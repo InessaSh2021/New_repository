@@ -55,9 +55,6 @@ https://github.com/InessaSh2021/Repository_14/blob/master/Основы%20язы�
 Свидетельство 
 https://github.com/InessaSh2021/Repository_14/blob/master/Python-%20разработка%20для%20начинающих.JPG
 
-Свидетельство
-https://github.com/InessaSh2021/Repository_14/blob/master/Postman.JPG
-
 Свидетельство 
 https://github.com/InessaSh2021/Repository_14/blob/master/Git%20-%20система%20контроля%20версий.JPG
 
@@ -75,6 +72,9 @@ https://github.com/InessaSh2021/Repository_14/blob/master/FastAPI.JPG
 
 Сертификат 
 https://github.com/InessaSh2021/Repository_14/blob/master/DataBase.JPG
+
+Сертификат
+https://github.com/InessaSh2021/Repository_14/blob/master/Postman.JPG
 
 Сертификат 
 https://github.com/InessaSh2021/Repository_14/blob/master/Python-%20разработка%20для%20начинающих.JPG
