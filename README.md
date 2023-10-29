@@ -77,9 +77,6 @@ https://github.com/InessaSh2021/Repository_14/blob/master/DataBase.JPG
 https://github.com/InessaSh2021/Repository_14/blob/master/Postman.JPG
 
 Сертификат 
-https://github.com/InessaSh2021/Repository_14/blob/master/Python-%20разработка%20для%20начинающих.JPG
-
-Сертификат 
 https://github.com/InessaSh2021/Repository_14/blob/master/stepik-certificate-58852-1615959.pdf
 
 .....................................
