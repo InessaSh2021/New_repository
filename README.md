@@ -50,18 +50,18 @@ https://docs.google.com/document/d/1PCFBt09aS0aJqUi_oqsf0SiYVOMBIaw9/edit?usp=sh
 https://github.com/InessaSh2021/Repository_14/blob/master/certificateprof.python.pdf
 
 Свидетельство 
-https://github.com/InessaSh2021/Repository_14/blob/master/Основы%20языка%20прогрммрования%20Python.JPG
-
-Свидетельство 
 https://github.com/InessaSh2021/Repository_14/blob/master/Python-%20разработка%20для%20начинающих.JPG
-
-Свидетельство 
-https://github.com/InessaSh2021/Repository_14/blob/master/Git%20-%20система%20контроля%20версий.JPG
 
 Свидетельство 
 https://github.com/InessaSh2021/Repository_14/blob/master/JS.JPG
 
 Свидетельство 
+https://github.com/InessaSh2021/Repository_14/blob/master/Основы%20языка%20прогрммрования%20Python.JPG
+
+Сертификат 
+https://github.com/InessaSh2021/Repository_14/blob/master/Git%20-%20система%20контроля%20версий.JPG
+
+Сертификат
 https://github.com/InessaSh2021/Repository_14/blob/master/JS%20Bootstrap.JPG
 
 Сертификат 
