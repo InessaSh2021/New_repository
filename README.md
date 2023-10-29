@@ -45,27 +45,41 @@ https://docs.google.com/document/d/1PCFBt09aS0aJqUi_oqsf0SiYVOMBIaw9/edit?usp=sh
 
 ....................
 
-Свидетельство https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%BC%D0%BC%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20Python.JPG
+
+Свидетельство 
+https://github.com/InessaSh2021/Repository_14/blob/master/certificateprof.python.pdf
+
+Свидетельство 
+https://github.com/InessaSh2021/Repository_14/blob/master/Основы%20языка%20прогрммрования%20Python.JPG
+
+Свидетельство 
+https://github.com/InessaSh2021/Repository_14/blob/master/Python-%20разработка%20для%20начинающих.JPG
 
 Свидетельство
-https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/%D0%91%D0%B0%D0%B7%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B4%D0%BB%D1%8F%20Python-%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%BE%D0%B2.JPG
+https://github.com/InessaSh2021/Repository_14/blob/master/Postman.JPG
 
 Свидетельство 
-https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/Python-%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85.JPG
+https://github.com/InessaSh2021/Repository_14/blob/master/Git%20-%20система%20контроля%20версий.JPG
 
 Свидетельство 
-https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82_%D0%BF%D1%80%D0%BE%D1%84.%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D0%BF%D0%B0%D0%B9%D1%82%D0%BE%D0%BD.JPG
+https://github.com/InessaSh2021/Repository_14/blob/master/JS.JPG
 
 Свидетельство 
-https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/Git%20-%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%20%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8F%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B9.JPG
+https://github.com/InessaSh2021/Repository_14/blob/master/JS%20Bootstrap.JPG
 
 Сертификат 
-https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9.JPG
+https://github.com/InessaSh2021/Repository_14/blob/master/certificate%20Разработка%20мобильных%20приложений.pdf
 
 Сертификат 
-https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/%D0%9F%D0%BE%D0%BA%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20python.JPG
+https://github.com/InessaSh2021/Repository_14/blob/master/FastAPI.JPG
 
 Сертификат 
-https://github.com/InessaSh2021/Repository_hw/blob/Certifikate/certificate%20(%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%8F%20%D0%B3%D1%80%D0%B0%D0%BC%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C).pdf
+https://github.com/InessaSh2021/Repository_14/blob/master/DataBase.JPG
+
+Сертификат 
+https://github.com/InessaSh2021/Repository_14/blob/master/Python-%20разработка%20для%20начинающих.JPG
+
+Сертификат 
+https://github.com/InessaSh2021/Repository_14/blob/master/stepik-certificate-58852-1615959.pdf
 
 .....................................
