@@ -25,7 +25,7 @@ https://docs.google.com/document/d/1PCFBt09aS0aJqUi_oqsf0SiYVOMBIaw9/edit?usp=sh
 https://sites.google.com/view/pet-projects-shuvalova-ines/%D0%BF%D0%B5%D1%82-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B
 
 
-мой сайт на джанго (развернут на локальном сервере) https://github.com/InessaSh2021/Repository_14/blob/master/сайт%20на%20джанго.JPG
+мой сайт на джанго (развернут на локальном сервере) https://github.com/InessaSh2021/Repository_14/blob/master/сайт%20на%20джанго.JPG  и https://github.com/InessaSh2021/Repository_14/blob/master/mysite.JPG
 
 ............................................................................................
 
