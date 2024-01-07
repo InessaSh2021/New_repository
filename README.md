@@ -83,4 +83,7 @@ https://github.com/InessaSh2021/Repository_14/blob/master/Postman.JPG
 Сертификат 
 https://github.com/InessaSh2021/Repository_14/blob/master/stepik-certificate-58852-1615959.pdf
 
+Сертификат
+https://github.com/InessaSh2021/Repository_14/blob/master/компьютерная%20графика_основы%20small.jpg
+
 .....................................
