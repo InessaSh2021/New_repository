@@ -45,6 +45,7 @@ https://sites.google.com/view/pet-projects-shuvalova-ines/%D0%BF%D0%B5%D1%82-%D0
 #### Быстрый старт в FastAPI Python
 #### Big Data и Data Science: начни погружение с нуля
 ####  “Поколение Python”: курс для начинающих
+#### Компьютерная графика: основы
 
 ....................
 
