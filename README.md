@@ -88,4 +88,10 @@ https://github.com/InessaSh2021/Repository_14/blob/master/stepik-certificate-588
 Сертификат
 https://github.com/InessaSh2021/Repository_14/blob/master/компьютерная%20графика_основы%20small.jpg
 
+Сертификат
+https://github.com/InessaSh2021/Repository_14/blob/master/certif_cam_CAD.JPG
+
+Сертификат
+https://github.com/InessaSh2021/Repository_14/blob/master/сертификат%20seo.JPG
+
 .....................................
