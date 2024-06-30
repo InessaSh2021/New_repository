@@ -18,7 +18,7 @@ https://docs.google.com/document/d/1PCFBt09aS0aJqUi_oqsf0SiYVOMBIaw9/edit?usp=sh
 Работа с библиотекой requests, http запросы: [https://github.com/InessaSh2021/Repository_hw/blob/feature/code-dokumentation/requests_http_hw_1.py](https://github.com/InessaSh2021/Repository_14/blob/master/requests_http_hw_1.py)
 
 
-## Мои проекты (на Google-диске):
+## Мои проекты на Django (на Google-диске):
 https://sites.google.com/view/pet-projects-shuvalova-ines/%D0%BC%D0%BE%D0%B8-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B-%D0%BD%D0%B0-pythondjango
 
 
